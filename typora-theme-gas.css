@@ -299,7 +299,7 @@ li > ul {
 hr {
   height: 1px;
   padding: 0;
-  margin: 16px 0;
+  margin: 36px 0;
   background-color: var(--borders);
   border: 0 none;
   overflow: hidden;
