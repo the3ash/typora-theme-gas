@@ -1310,11 +1310,11 @@ footer.ty-footer {
 }
 
 #typora-sidebar .file-tree-node .file-node-icon.fa-file-text-o {
-  margin-top: 0.33rem;
+  margin-top: 6.5px;
 }
 
 #typora-sidebar .file-tree-node .file-node-icon.fa-folder {
-  margin-top: 0.36rem;
+  margin-top: 6.5px;
 }
 
 #typora-sidebar .file-tree-node .fa-caret-down,
@@ -2633,4 +2633,8 @@ i.fa.fa-caret-down::before {
 
 .md-task-list-item>input{
   margin-left: -1.5rem !important;
+}
+
+.ty-search-item{
+  padding:0 6px 0 4px !important;
 }
