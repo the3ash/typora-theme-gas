@@ -768,7 +768,7 @@ input[type='checkbox']:before {
 
 .md-task-list-item:hover > input:before,
 input[type='checkbox']:hover:before {
-  background-color: var(--boxes-darker);
+  background-color: #DDDDDD;
 }
 
 .md-task-list-item > input:checked:before,
@@ -2631,3 +2631,6 @@ i.fa.fa-caret-down::before {
   padding-left:3rem !important;
 }
 
+.md-task-list-item>input{
+  margin-left: -1.5rem !important;
+}
