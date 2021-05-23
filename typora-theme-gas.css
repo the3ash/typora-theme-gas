@@ -175,8 +175,6 @@ h1 {
   line-height: 1.5;
   margin-top: 3rem;
   margin-bottom: 0.5rem;
-  padding-bottom: 0.2rem;
-  border-bottom: solid 1px var(--borders);
 }
 
 h2 {
