@@ -313,7 +313,7 @@ li p.first {
 
 ul,
 ol {
-  padding-left: 30px;
+  padding-left: 24px;
 }
 
 ul:first-child,
@@ -2632,7 +2632,7 @@ i.fa.fa-caret-down::before {
 }
 
 .md-task-list-item>input{
-  margin-left: -1.5rem !important;
+  margin-left: -1.35rem !important;
 }
 
 .ty-search-item{
