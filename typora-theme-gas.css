@@ -343,10 +343,9 @@ mark {
 
 blockquote {
   width: 100%;
-  background-color: var(--boxes);
   border-left: 4px solid var(--boxes-darker);
-  border-radius: 0.15rem;
-  padding: 0.8rem;
+  padding: 0 0 0 12px;
+  color: var(--control-text-color);
 }
 
 blockquote blockquote {
